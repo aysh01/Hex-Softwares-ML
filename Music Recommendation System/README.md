@@ -11,7 +11,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
     <div align="center">
-  <img src="https://github.com/aysh01/CODSOFT-ML/blob/main/CodSoft__ML.jpg" width="300" height="300"/><br>
+  <img src="https://github.com/aysh01/Hex-Softwares-ML/blob/main/Music%20Recommendation%20System/Screenshot%202024-08-28%20182053.png" width="300" height="300"/><br>
       <hr>
       <div align="left">
 :woman_technologist: This, is a <a href="https://in.linkedin.com/company/hex-softwares" style="text-decoration:none;">Hex Softwares </a> Internship Page.<br>
